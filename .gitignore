@@ -1,0 +1,5 @@
+node_modules
+package-lock.json
+config/db.local.config.js
+public/files/
+yarn.lock
